@@ -4,4 +4,4 @@
 - 🤔 I’m looking for help with Machine Learning
 - 💬 Ask me about Python/Django
 - 📫 How to reach me: jonathan_constant@en-lightene.com 
-- ⚡ Fun fact: djangorestframework has two styles of creating API'S Apiviews and Views
+- ⚡ Fun fact: djangorestframework has two styles of creating API'S Apiviews and Viewsets
