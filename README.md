@@ -3,5 +3,5 @@
 - 👯 I’m looking to collaborate on Mobile App CMS 
 - 🤔 I’m looking for help with Machine Learning
 - 💬 Ask me about Python/Django
-- 📫 How to reach me: jonathan_constant@en-lightene.com 
+- 📫 How to reach me: jonathan_constant@enlighten-e.com 
 - ⚡ Fun fact: djangorestframework has two styles of creating API'S Apiviews and Viewsets
